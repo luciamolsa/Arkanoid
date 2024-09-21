@@ -1,9 +1,9 @@
-# 💟🍫🍬🍭🧁🍫🎩🕹️ Arkanoid Ricky y la Fábrica de Chocolates 💟🍫🍬🍭🧁🍫🎩🕹️
+# 💟🍫🍭🧁🍫🎩 Arkanoid Ricky y la Fábrica de Chocolates 💟🍫🍭🧁🍫🎩
 
-🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
+🌟🌟🌟🌟🌟🌟🌟🌟🌟
 ¡Bienvenido a **Arkanoid de Ricardo Fort**!  
 Un juego clásico inspirado en el famoso **Arkanoid**, desarrollado en **C++** utilizando la librería **SFML**, con un toque humorístico y divertido gracias a las imágenes y sonidos alegóricos de un popular personaje de la televisión argentina. 😄
-🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
+🌟🌟🌟🌟🌟🌟🌟🌟🌟
 ## Características ✨
 
 - 🎮 **Gráficos 2D**: Implementados con la librería **SFML** para ofrecer una experiencia visual retro y nostálgica.
